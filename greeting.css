@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+     padding: 16px;
+     background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.5)), url(https://images.unsplash.com/photo-1517398771889-dd2d7851a828?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+     background-attachment: fixed;
+   }
+
+   .card {
+    margin: 40px auto;
+    padding: 16px;
+    max-width: 800px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 0 24px 40px -8px pink;
+  }
+  .card img {
+    width: 100%;
+  }
+
+  .modal-body{
+    font-family: 'Tangerine', cursive;
+    font-size: 40px;
+  }
+ 
